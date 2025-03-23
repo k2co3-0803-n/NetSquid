@@ -1,1 +1,1 @@
-# NetSquid
+# NetSquid training
